@@ -28,7 +28,7 @@ Projekt powstał w środowisku **RStudio** z wykorzystaniem języka R oraz R Mar
 ## 📂 Dane wejściowe
 
 **Plik:** `Hebe.csv`  
-**Format:** CSV (Comma Separated Values)  
+**Format:** CSV
 **Zawiera:**  
 - Nazwa produktu  
 - Marka  
